@@ -70,6 +70,11 @@ a:hover {
   padding-top: 60px;
 }
 
+.header--alt__alt {
+  background: url('images/konstantin-dyadyun-UF2-gL3q-38-unsplash.jpg') no-repeat top center;
+  background-size: cover;
+}
+
 .header {
   line-height: 1.5;
 }
@@ -85,8 +90,6 @@ a:hover {
 .header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
-
-
 
 .tag {
   background-color: #efefef;
@@ -216,5 +219,3 @@ a.social:hover {
   }
 
 }
-
-/* Experience page styles */
